@@ -17,3 +17,8 @@ hugo server
 ```
 
 Then the website should run on the local port.
+
+## Files to write
+
+1. /content/_index.md change in this markdown corrosponds to the main page for the website.
+2.  /content/about.md change in this markdown corrosponds to the team page for the website.
