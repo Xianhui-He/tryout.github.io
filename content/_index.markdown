@@ -5,6 +5,9 @@ title: Home
 <!-- 
 [<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin) -->
 
+<p>Used on a button:</p>
+<button style="font-size:24px">Link <i class="fa fa-github"></i></button>
+
 
 # Raclette 2 Project
 
