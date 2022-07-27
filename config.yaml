@@ -18,11 +18,11 @@ menu:
       weight: 1
     - name: Team
       url: "about/"
-      weight: 2
-      
+      weight: 2  
     - name: Github
-      url:"https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery"
-      weight:3
+      url: "https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery"
+      weight: 3
+  
 
 
 
