@@ -20,27 +20,12 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 
 
 <!-- in this way you could embed a google slide -->
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0kKJB_M_bQMyuAQMtbWsVwZMUk0nbnsgRSf3-B3gWh_sPxFId-fI7mWnKUdkwBmQB36UXy_Z4tq92/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8GPUE2rx3joI3P-KQlrYMo0TQtqz8S3KbCWoiuCWjFo4Ymh701GovxdRc19ZQwUFdCRUC0TNPyuw8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<!-- in this way you could insert a code -->
-```bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
+<!-- in this way you could embed a google slide -->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5K_hXPhmrmsEsHLuj2uCiF4Xr0DnGemCUEAXLOL_BvzV30Ric5m15MOlmhX2EkgoTO11yXVVfiot1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-```
-       5 ./layouts/404.html
-      12 ./layouts/_default/single.html
-      20 ./layouts/_default/list.html
-      13 ./layouts/_default/terms.html
-       0 ./layouts/partials/foot_custom.html
-       0 ./layouts/partials/head_custom.html
-       9 ./layouts/partials/footer.html
-      20 ./layouts/partials/header.html
-      51 ./static/css/style.css
-       7 ./static/css/fonts.css
-     137 total
-```
 
 I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
 
