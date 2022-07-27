@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-[<img src="https://images.app.goo.gl/iBzRpU7pG9HGyYvv8" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
 
 
 # Raclette 2 Project
@@ -19,11 +19,11 @@ Our results (may) suggest that in addition to common neural substrates shared by
 
 Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate classification | neural trajectory analysis 
 
-
+## Mentor Meeeting 2
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8GPUE2rx3joI3P-KQlrYMo0TQtqz8S3KbCWoiuCWjFo4Ymh701GovxdRc19ZQwUFdCRUC0TNPyuw8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
+## Mentor Meeting 3
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5K_hXPhmrmsEsHLuj2uCiF4Xr0DnGemCUEAXLOL_BvzV30Ric5m15MOlmhX2EkgoTO11yXVVfiot1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
