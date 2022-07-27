@@ -2,17 +2,16 @@
 title: Home
 ---
 
- <iframe
+# Raclette 2 Project
+
+# Does Imagery share similar neural mechanisms with the actual movement?
+<iframe
               src="https://ghbtns.com/github-btn.html?user=Xianhui-He&repo=Raclette-Group-2-ECoG-Motor-Imagery&type=star&count=true&size=large"
               width="170"
               height="30"
               frameBorder="0"
               scrolling="0"
             ></iframe>
-
-# Raclette 2 Project
-
-# Does Imagery share similar neural mechanisms with the actual movement?
 
 ## Abstract
 
