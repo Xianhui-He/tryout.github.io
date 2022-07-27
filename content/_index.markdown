@@ -2,12 +2,13 @@
 title: Home
 ---
 
-<!-- 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin) -->
-
-<p>Used on a button:</p>
-<button style="font-size:24px">Link <i class="fa fa-github"></i></button>
-
+ <iframe
+              src="https://ghbtns.com/github-btn.html?user=Xianhui-He&repo=Raclette-Group-2-ECoG-Motor-Imagery&type=star&count=true&size=large"
+              width="170"
+              height="30"
+              frameBorder="0"
+              scrolling="0"
+            ></iframe>
 
 # Raclette 2 Project
 
