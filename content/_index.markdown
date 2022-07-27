@@ -2,15 +2,21 @@
 title: Home
 ---
 
-#      Hello this is Ramy Ali!
 
 [<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
 
-# Raclette Project
+# Raclette 2 Project
 
-## _Keep it simple, but not simpler_
+# Does Imagery share similar neural mechanisms with the actual movement?
 
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.org) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+## Abstract
+
+Imagined motor movement (“Imagery”) plays a crucial role in preparing actual movements and learning of complex motor skills. Miller et al (2010) have shown that the spatial distribution of activities in the primary motor area for imagery and actual movements does not overlap in high frequency (76-100Hz), but in low frequency band (8-32Hz). However, the neural substrates and neural representations of imagery still remain largely unknown.  
+
+The present study examined whether imagery shares similar mechanisms with actual movement at different levels. With electrocorticography (ECoG) dataset in seven human subjects during actual movement and kinesthetic imagery of the same motion type (hand & tongue), we investigated the channel-level mechanisms by looking at the differences between actual movement and imagery in the power of specific frequency bands (i.e. alpha/beta/gamma). Furthermore, we investigated the population-level mechanism by performing the multivariate classification and the neural trajectory analysis. Specifically, we trained the classifier on actual movement/imagery and tested it on imagery/actual movement to see whether the decoding can be generalized to each other. Also, using t-SNE, we examined whether the imagery and actual movement activated in the same sequence at the neural subspace. 
+Our results (may) suggest that in addition to common neural substrates shared by imagery and actual movements, there also exists imagery-specific neural substrates at both the channel level and the population level.
+
+Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate classification | neural trajectory analysis 
 
 
 <!-- in this way you could embed a google slide -->
