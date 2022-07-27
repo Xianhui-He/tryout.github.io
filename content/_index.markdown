@@ -3,7 +3,8 @@ title: Home
 ---
 
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="https://images.app.goo.gl/iBzRpU7pG9HGyYvv8" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+
 
 # Raclette 2 Project
 
@@ -27,14 +28,5 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5K_hXPhmrmsEsHLuj2uCiF4Xr0DnGemCUEAXLOL_BvzV30Ric5m15MOlmhX2EkgoTO11yXVVfiot1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
-
-Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With [a little bit customization](https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html), it can easily support LaTeX math expressions, e.g.,
-
-<!-- in this way you could insert a math function -->
-`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
-
-<!-- in this way you could insert a video -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RRQtNnq3s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [About](/about/) page for the usage of this theme.
