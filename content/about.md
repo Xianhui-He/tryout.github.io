@@ -3,7 +3,9 @@ title: About
 ---
 ---
 author:
-  - John Doe^[Institution One, john@example.org]
-  - Jane Doe^[Institution Two, jane@example.org]
+
+  - Xianhui He^[Zhejiang University, xhhe.psy@gmail.com]
+  - Huayu Wang^[ShanghaiTech University, why123jj@126.com]
+  - Nan Chen^[Australian National University, chennan5353@gmail.com]
 ---
 
