@@ -23,7 +23,7 @@ This project has been done under the supervision of:
 [^5]: Australian National University, chennan5353@gmail.com
 [^6]: USDA-ARS, ars.usda.gov
 [^7]: NBRC, vinsea.b18@nbrc.ac.in
-[^8]: Fudan University, fudan.edu.cn
+[^8]: Fudan University, samanthawangdl@gmail.com
 
 ---
 
