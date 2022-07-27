@@ -1,9 +1,8 @@
 ---
 title: About 
-author: Xianhui He
-author: Hanif R
-author: Huayu Wang
-author: Ramy Ali
-author: Nan Chen
+---
+author:
+  - John Doe^[Institution One, john@example.org]
+  - Jane Doe^[Institution Two, jane@example.org]
 ---
 
