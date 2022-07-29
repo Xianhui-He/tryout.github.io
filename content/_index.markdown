@@ -24,7 +24,7 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 
 ## Methodology
 
-![Our Pipeline](./workflow)
+![Our Pipeline](./workflow.png)
 
 Methods
 [SVM_Classifier](https://colab.research.google.com/drive/1uvMhvG79c82Tz17Ww7ZzYgOmFcqWSeUg?usp=sharing)
