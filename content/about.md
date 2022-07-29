@@ -2,7 +2,7 @@
 title: About 
 ---
 ---
-## Primary Authors
+## Authors
 
 ![Meet our Team](./team.png)
 
