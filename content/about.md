@@ -6,8 +6,6 @@ title: About
 
 ![Meet our Team](./team.png)
 
-
-
   - Xianhui He [^1]
   - Hanif R [^2]
   - Huayu Wang [^3]
