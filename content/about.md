@@ -4,7 +4,7 @@ title: About
 ---
 ## Authors
 
-![Meet our Team](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/files/Raclette2.png)
+![Meet our Team](https://github.com/SamanthaWangdl/raclette-group-website/blob/main/content/Raclette2.png)
 
 
   - Xianhui He [^1]
