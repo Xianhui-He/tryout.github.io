@@ -27,9 +27,10 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 ![Our Pipeline](./workflow.png)
 
 ## Methods
-[SVM_Classifier](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/SVM_analysis_Xianhui.ipynb)\
-[Time_Frequency](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/TFA_Hanif_Xianhui.ipynb)\
-[Neural_Trajectory](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/tSNE_Huayu.ipynb)
+
+[![react](https://img.shields.io/badge/Time_Frequency_Analysis-FEBEB0?style=for-the-badge&logo=&label=&labelColor=3D5A5B)](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/TFA_Hanif_Xianhui.ipynb)
+[![react](https://img.shields.io/badge/SVM_Classification-3D5A5B?style=for-the-badge&logo=&label=&labelColor=3D5A5B)](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/SVM_analysis_Xianhui.ipynb)
+[![react](https://img.shields.io/badge/Neural_Trajectory-FEBEB0?style=for-the-badge&logo=&label=&labelColor=3D5A5B)](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/tSNE_Huayu.ipynb)
 
 
 ## Final NMA presentation
