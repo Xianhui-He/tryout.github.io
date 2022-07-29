@@ -4,7 +4,7 @@ title: About
 ---
 ## Authors
 
-![Meet our Team](https://github.com/SamanthaWangdl/raclette-group-website/blob/main/content/team.png "Meet the team")
+![Meet our Team](https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu65kor3j21900hwdjp.jpg)
 
 
   - Xianhui He [^1]
