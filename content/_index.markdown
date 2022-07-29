@@ -38,8 +38,7 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRekabko67saRPFExJH1pv0KXn1ggVGiBBZRtcx-MkGgPGiQB-cNND9losV_u7_fc9lF5bHBwSAae71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Mega Pod Video Presentation
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/PssENb1xvtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- -->
+
 <iframe width="960" height="569" src="https://www.youtube.com/embed/PssENb1xvtw" title="Does Imagery Movement Share Similar Neural Mechanisms with Actual Movement_Neuromatch Academy 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
