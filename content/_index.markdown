@@ -22,6 +22,10 @@ Our results (may) suggest that in addition to common neural substrates shared by
 
 Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate classification | neural trajectory analysis 
 
+## Key Results
+
+[SVM_Classifier](https://colab.research.google.com/drive/1uvMhvG79c82Tz17Ww7ZzYgOmFcqWSeUg?usp=sharing)
+
 ## Final NMA presentation
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRekabko67saRPFExJH1pv0KXn1ggVGiBBZRtcx-MkGgPGiQB-cNND9losV_u7_fc9lF5bHBwSAae71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
