@@ -33,6 +33,8 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRekabko67saRPFExJH1pv0KXn1ggVGiBBZRtcx-MkGgPGiQB-cNND9losV_u7_fc9lF5bHBwSAae71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PssENb1xvtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
