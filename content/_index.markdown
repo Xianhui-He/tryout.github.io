@@ -27,9 +27,9 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 ![Our Pipeline](./workflow.png)
 
 ## Methods
-[SVM_Classifier](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/SVM_analysis_Xianhui.ipynb)
-[Time_Frequency](https://colab.research.google.com/drive/1uvMhvG79c82Tz17Ww7ZzYgOmFcqWSeUg?usp=sharing)
-[Neural_Trajectory](https://colab.research.google.com/drive/1uvMhvG79c82Tz17Ww7ZzYgOmFcqWSeUg?usp=sharing)
+[SVM_Classifier](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/SVM_analysis_Xianhui.ipynb)\
+[Time_Frequency](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/TFA_Hanif_Xianhui.ipynb)\
+[Neural_Trajectory](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/tSNE_Huayu.ipynb)
 
 
 ## Final NMA presentation
