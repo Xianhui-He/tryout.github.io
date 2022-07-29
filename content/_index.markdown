@@ -32,14 +32,13 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 [![react](https://img.shields.io/badge/SVM_Classification-3D5A5B?style=for-the-badge&logo=&label=&labelColor=3D5A5B)](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/SVM_analysis_Xianhui.ipynb)
 [![react](https://img.shields.io/badge/Neural_Trajectory-FEBEB0?style=for-the-badge&logo=&label=&labelColor=3D5A5B)](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/code/tSNE_Huayu.ipynb)
 
+## Mega Pod Video Presentation
+
+<iframe width="960" height="569" src="https://www.youtube.com/embed/PssENb1xvtw" title="Does Imagery Movement Share Similar Neural Mechanisms with Actual Movement_Neuromatch Academy 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final NMA presentation
 <!-- in this way you could embed a google slide -->
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRekabko67saRPFExJH1pv0KXn1ggVGiBBZRtcx-MkGgPGiQB-cNND9losV_u7_fc9lF5bHBwSAae71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-## Mega Pod Video Presentation
-
-<iframe width="960" height="569" src="https://www.youtube.com/embed/PssENb1xvtw" title="Does Imagery Movement Share Similar Neural Mechanisms with Actual Movement_Neuromatch Academy 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
