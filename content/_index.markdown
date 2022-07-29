@@ -24,7 +24,7 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 
 ## Methodology
 
-<img src="./workflow" alt="Pipeline of methodology" style="height: 100px; width:100px;"/>
+<img src="./workflow"  style="height: 100px; width:100px;"/>
 
 
 
