@@ -26,8 +26,8 @@ Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate cl
 
 <iframe
               src="./workflow"
-              width="170"
-              height="30"
+<!--               width="170"
+              height="30" -->
               frameBorder="0"
               scrolling="0"
             ></iframe>
