@@ -4,7 +4,7 @@ title: About
 ---
 ## Primary Authors
 
-![](./team.png)
+![Meet our Team](./team.png)
 
 
 
