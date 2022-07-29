@@ -22,13 +22,10 @@ Our results (may) suggest that in addition to common neural substrates shared by
 
 Keyword: electrocorticography (ECoG) | time frequency analysis | multivariate classification | neural trajectory analysis 
 
-## Mentor Meeeting 2 Presentation
+## Final NMA presentation
 <!-- in this way you could embed a google slide -->
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8GPUE2rx3joI3P-KQlrYMo0TQtqz8S3KbCWoiuCWjFo4Ymh701GovxdRc19ZQwUFdCRUC0TNPyuw8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRekabko67saRPFExJH1pv0KXn1ggVGiBBZRtcx-MkGgPGiQB-cNND9losV_u7_fc9lF5bHBwSAae71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Mentor Meeting 3 Presentation
-<!-- in this way you could embed a google slide -->
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5K_hXPhmrmsEsHLuj2uCiF4Xr0DnGemCUEAXLOL_BvzV30Ric5m15MOlmhX2EkgoTO11yXVVfiot1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
