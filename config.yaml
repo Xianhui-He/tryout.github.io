@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Neuromatch ECoG Project"
+title: "Xianhui He"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -16,11 +16,11 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Team
+    - name: Project
       url: "about/"
       weight: 2  
     - name: Github
-      url: "https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery"
+      url: "https://github.com/Xianhui-He"
       weight: 3
   
 
@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Raclette](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery) | [Github](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery)"
+  footer: "&copy; [Raclette](https://github.com/Xianhui-He) | [Github](https://github.com/Xianhui-He)"
 
 markup:
   highlight:
